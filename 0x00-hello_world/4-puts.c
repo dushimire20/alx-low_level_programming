@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- *manipulation of task 4
+ *main - Entry point
  *
- *Return 0
+ *Return: Always 0(success)
  */ 
 
 int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");
-  return (0);
+  return 0;
 }
